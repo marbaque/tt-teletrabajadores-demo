@@ -1,0 +1,100 @@
+/* variables */
+$gris1: #f2f2f2;
+$gris2: #d6d6d6;
+$gris3: #808080;
+
+$color-principal: #ffd764;
+$color-secundario: #323c64;
+$color-terciario: #b5b9c7;
+
+$color-texto1: #323c64;
+$color-texto2: #5b6383;
+$color-texto3: #848aa2;
+$color-texto-body: #333333;
+
+$color-interactive: #ea7b0c;
+
+$max: 1280px;
+
+$break-hd: 1200px;
+$break-large: 1000px;
+$break-medium: 750px;
+$break-small: 550px;
+$break-xsmall: 400px;
+
+@mixin border($radio){
+	-moz-border-radius: $radio;
+	-webkit-border-radius: $radio;
+	border-radius: $radio;
+
+  /* Prevent background color leak outs */
+  -webkit-background-clip: padding-box; 
+  -moz-background-clip:    padding; 
+  background-clip:         padding-box;
+}
+
+@-webkit-keyframes paneo {
+  0%   { background-position-x: 1344px; }
+  100% { background-position-x: 0; }
+}
+@-moz-keyframes paneo {
+  0%   { background-position-x: 1344px; }
+  100% { background-position-x: 0; }
+}
+@-o-keyframes paneo {
+  0%   { background-position-x: 1344px; }
+  100% { background-position-x: 0; }
+}
+@keyframes paneo {
+  0%   { background-position-x: 1344px; }
+  100% { background-position-x: 0; }
+}
+
+
+//flexbox
+@mixin flexbox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+@mixin flex-wrap($value: nowrap) {
+	// No Webkit Box fallback.
+	-webkit-flex-wrap: $value;
+	-moz-flex-wrap: $value;
+	@if $value == nowrap {
+		-ms-flex-wrap: none;
+	} @else { 
+		-ms-flex-wrap: $value; 
+	}
+	flex-wrap: $value;
+}
+
+//Svg png fallback
+$public_path: "../";
+@mixin vector-bg-with-fallback($name) {
+  background-image: url('#{$public_path}images/#{$name}.png');
+  background-image: none, url('#{$public_path}images/#{$name}.svg');
+}
+
+//retina display images
+@mixin image-2x($image, $width, $height) {
+  @media (min--moz-device-pixel-ratio: 1.3),
+         (-o-min-device-pixel-ratio: 2.6/2),
+         (-webkit-min-device-pixel-ratio: 1.3),
+         (min-device-pixel-ratio: 1.3),
+         (min-resolution: 1.3dppx) {
+    /* on retina, use image that's scaled by 2 */
+    background-image: url($image);
+    background-size: $width $height;
+  }
+}
+
+/* then use */
+/*
+div.logo {
+  background: url("logo.png") no-repeat;
+  @include image-2x("logo2x.png", 100px, 25px);
+}
+*/

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .a {
+        fill: #323c64;
+        stroke: #323c64;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .b {
+        fill: #ffd764;
+      }
+    </style>
+  </defs>
+  <title>minus</title>
+  <g>
+    <circle class="a" cx="13.5" cy="13.5" r="12.5"/>
+    <rect class="b" x="7.25" y="12.61" width="12.5" height="1.79" rx="0.42" ry="0.42"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <title>flecha-invertida</title>
+  <g>
+    <circle cx="17" cy="17" r="16" style="fill: #323c64;stroke: #323c64;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <path d="M15.06,24.86l7-7.2a1,1,0,0,0,0-1.32l-7-7.2a.45.45,0,0,0-.65,0l-.65.66a.48.48,0,0,0,0,.66l6.07,6.21a.48.48,0,0,1,0,.66l-6.07,6.21a.48.48,0,0,0,0,.66l.65.66a.45.45,0,0,0,.65,0" style="fill: #f2f2f2"/>
+  </g>
+</svg>

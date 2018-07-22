@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <title>cap5</title>
+  <g>
+    <g>
+      <path d="M75,149a74,74,0,1,1,74-74A74.08,74.08,0,0,1,75,149Z" style="fill: #b2b2b2"/>
+      <path d="M75,2A73,73,0,1,1,2,75,73.08,73.08,0,0,1,75,2m0-2a75,75,0,1,0,75,75A75,75,0,0,0,75,0Z" style="fill: #323c64"/>
+    </g>
+    <g>
+      <rect x="40.65" y="56.4" width="66.63" height="56.22" rx="4.41" ry="4.41" style="fill: #fff;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M92.33,56.4c-1.79-7.2-10.21-13.64-18-13.64S58.19,50,56.4,56.4L63,58.54c1.4-4.8,5.37-9,11.41-9s10,4.16,11.41,9.77Z" style="fill: #dfe2e2;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M91.69,56.4h11.18a4.43,4.43,0,0,1,4.41,4.41V70a4.43,4.43,0,0,1-4.41,4.41H45.06A4.43,4.43,0,0,1,40.65,70V60.81a4.43,4.43,0,0,1,4.41-4.41H91.69" style="fill: #ff931e;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <polygon points="84.45 98.94 78.49 98.94 78.49 104.9 70.24 104.9 70.24 98.94 64.28 98.94 64.28 90.69 70.24 90.69 70.24 84.73 78.49 84.73 78.49 90.69 84.45 90.69 84.45 98.94" style="fill: #f42534;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <rect x="70.4" y="66.89" width="7.92" height="14.34" rx="3.05" ry="3.05" transform="translate(148.42 -0.31) rotate(90)" style="fill: #3fa9f5;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    </g>
+  </g>
+</svg>

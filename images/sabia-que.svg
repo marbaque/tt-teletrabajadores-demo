@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <style>
+      .a {
+        fill: #ffd764;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .a, .b, .c {
+        stroke: #323c64;
+      }
+
+      .b {
+        fill: #fff;
+      }
+
+      .b, .c {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.5px;
+      }
+
+      .c {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>sabia-que</title>
+  <g>
+    <circle class="a" cx="43.5" cy="43.5" r="42.5"/>
+    <g>
+      <path class="b" d="M43,19.2c-4.76.19-14.8,2.38-16.77,17.2C23.64,56,19.17,58.05,16.76,59.52c-2.71,1.65-1.83,6.19-1.83,6.19H72.15s.88-4.54-1.82-6.19C67.91,58.05,63.44,56,60.85,36.4,58.89,21.58,48.84,18.81,43,19.2Z"/>
+      <path class="b" d="M36.13,65.71a7.65,7.65,0,0,0,14.7,0Z"/>
+      <circle class="b" cx="43.48" cy="15.92" r="3.25"/>
+      <line class="c" x1="66.45" y1="56.98" x2="49.22" y2="56.98"/>
+      <line class="c" x1="64.83" y1="53.08" x2="57.84" y2="53.08"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <title>cap4</title>
+  <g>
+    <g>
+      <path d="M75,149a74,74,0,1,1,74-74A74.08,74.08,0,0,1,75,149Z" style="fill: #b2b2b2"/>
+      <path d="M75,2A73,73,0,1,1,2,75,73.08,73.08,0,0,1,75,2m0-2a75,75,0,1,0,75,75A75,75,0,0,0,75,0Z" style="fill: #323c64"/>
+    </g>
+    <path d="M118.84,63.41a10.89,10.89,0,0,0-12.1,3.06.75.75,0,0,1-1.32-.39,10.89,10.89,0,0,0-8.48-9.16c-4.7-.83-11.35-.46-12.79,10s12,33,12,33,23.46-11.66,27.94-21.18S123.23,65.28,118.84,63.41Z" style="fill: #f42534;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    <g>
+      <path d="M63.06,31.72s12.61-2.65,12.61,15.93S64.39,77.5,56.42,80.82" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M45.81,31.72S33.2,29.06,33.2,47.64,44.48,77.5,52.44,80.82" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M70.36,68.08C66.39,74.7,61,79,56.55,80.82" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M38.63,68.08C42.6,74.7,48,79,52.44,80.82" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M55.1,88.12s-.76,31.2,19.24,31.28c18.61.07,25.81-31,25.81-31" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <circle cx="101.27" cy="80.37" r="8.82" style="fill: #fff;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <circle cx="101.27" cy="80.37" r="3.31" style="fill: #3fa9f5;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M64.72,29.89l-2.3-1.61A2.12,2.12,0,0,0,59.08,30v3a2.12,2.12,0,0,0,3.21,1.82l2.3-1.38A2.12,2.12,0,0,0,64.72,29.89Z" style="fill: #323c64"/>
+      <path d="M44.15,29.89l2.3-1.61A2.12,2.12,0,0,1,49.79,30v3a2.12,2.12,0,0,1-3.21,1.82l-2.3-1.38A2.12,2.12,0,0,1,44.15,29.89Z" style="fill: #323c64"/>
+      <rect x="49.8" y="75.89" width="9.93" height="14.51" rx="4.25" ry="4.25" style="fill: #ff931e;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    </g>
+  </g>
+</svg>

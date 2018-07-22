@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150">
+  <title>cap1</title>
+  <g>
+    <g>
+      <path d="M75,149a74,74,0,1,1,74-74A74.08,74.08,0,0,1,75,149Z" style="fill: #b2b2b2"/>
+      <path d="M75,2A73,73,0,1,1,2,75,73.08,73.08,0,0,1,75,2m0-2a75,75,0,1,0,75,75A75,75,0,0,0,75,0Z" style="fill: #323c64"/>
+    </g>
+    <g>
+      <path d="M51,29l45.06-.1L110,42.83V123H45V35.07A6.05,6.05,0,0,1,51,29Z" style="fill: #fff;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <polygon points="109.98 43.18 96.07 28.92 96 43.18 109.98 43.18" style="fill: #dfe2e2;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    </g>
+    <g>
+      <g>
+        <rect x="100.94" y="57.08" width="5.98" height="48.01" transform="translate(169.05 195.69) rotate(-157.57)" style="fill: #ff931e;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+        <polygon points="97.54 104.41 92.31 109.24 92.01 102.13 97.54 104.41" style="fill: #323c64;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      </g>
+      <polyline points="113.62 64.01 105.45 60.55 101.05 70.96" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <path d="M113.68,54.76h.71A1.26,1.26,0,0,1,115.65,56V59.6a0,0,0,0,1,0,0h-3.23a0,0,0,0,1,0,0V56a1.26,1.26,0,0,1,1.26-1.26Z" transform="translate(31.26 -39.89) rotate(22.91)" style="fill: #323c64"/>
+    </g>
+    <g>
+      <line x1="53.79" y1="50.52" x2="92.39" y2="50.52" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <line x1="53.79" y1="60.47" x2="92.39" y2="60.47" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+      <line x1="53.79" y1="70.43" x2="75.05" y2="70.43" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2.20588241833018px"/>
+    </g>
+    <line x1="80.19" y1="109.24" x2="87.16" y2="109.24" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    <line x1="53.79" y1="109.24" x2="72.89" y2="109.24" style="fill: none;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    <circle cx="60.2" cy="89.1" r="6.41" style="fill: #3fa9f5;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+    <polygon points="74.94 95.51 81.03 84.74 87.17 95.51 74.94 95.51" style="fill: #f42534;stroke: #323c64;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+  </g>
+</svg>
