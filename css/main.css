@@ -1582,8 +1582,8 @@ dl dd {
     opacity: .5; }
     .modal #ventana-demo:before {
       content: "";
-      width: 74px;
-      height: 88px;
+      width: 81px;
+      height: 95px;
       display: block;
       position: absolute;
       top: -55px;
