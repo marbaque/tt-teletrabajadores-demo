@@ -1,5 +1,5 @@
 # Libro multimedia Guía de teletrabajo para teletrabajadores (DEMO)
-La Guía de teletrabajo para teletrabajadores (DEMO) se elaboró para vos, que te desempeñarás próximamente como teletrabajador y estás interesado en conocer las principales características y consideraciones del teletrabajo para el desempeño óptimo de tus labores.
+La Guía de teletrabajo para personas teletrabajadoras (DEMO) se elaboró para vos, que te desempeñarás próximamente como teletrabajador y estás interesado en conocer las principales características y consideraciones del teletrabajo para el desempeño óptimo de tus labores.
 
 ## Créditos
 * Universidad Estatal a Distancia (UNED) de Costa Rica.
